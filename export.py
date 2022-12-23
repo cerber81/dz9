@@ -1,6 +1,6 @@
 import mysql_connect
 def ExportJson():
-    file_json = open('staff.json', 'w')
+    file_json = open('staff.json', 'w', encoding='utf-8')
     file_json.write('{ "staff": [\n')
 
     cur = mysql_connect.connection.cursor()
@@ -20,7 +20,7 @@ def ExportJson():
         '------------------------------------------------------------------------------------------------------------')
 
 def ExportXML():
-    file_json = open('staff.xml', 'w')
+    file_json = open('staff.xml', 'w', encoding='utf-8')
     file_json.write('<list>\n')
 
     cur = mysql_connect.connection.cursor()

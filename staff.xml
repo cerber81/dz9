@@ -2,12 +2,12 @@
 <staff>
 <id>5</id>
 <adopted>2022-12-23 17:27:48</adopted>
-<surname>Иванов</surname>
-<name>Иван</name>
-<first_name>Иванович</first_name>
+<surname>РРІР°РЅРѕРІ</surname>
+<name>РРІР°РЅ</name>
+<first_name>РРІР°РЅРѕРІРёС‡</first_name>
 <years>32</years>
-<city>Москва</city>
-<post>менеджер</post>
+<city>РњРѕСЃРєРІР°</city>
+<post>РјРµРЅРµРґР¶РµСЂ</post>
 <salary>30000</salary>
 <telegram>ivanov</telegram>
 <resume>https://sity1.ru</resume>
@@ -16,12 +16,12 @@
 <staff>
 <id>6</id>
 <adopted>2022-12-22 13:59:40</adopted>
-<surname>Петров</surname>
-<name>Петр</name>
-<first_name>Петрович</first_name>
+<surname>РџРµС‚СЂРѕРІ</surname>
+<name>РџРµС‚СЂ</name>
+<first_name>РџРµС‚СЂРѕРІРёС‡</first_name>
 <years>30</years>
-<city>Ростов</city>
-<post>Проджект</post>
+<city>Р РѕСЃС‚РѕРІ</city>
+<post>РџСЂРѕРґР¶РµРєС‚</post>
 <salary>36000</salary>
 <telegram>prteov</telegram>
 <resume>https://sity1.ru</resume>
@@ -30,12 +30,12 @@
 <staff>
 <id>10</id>
 <adopted>2022-12-23 18:19:25</adopted>
-<surname>Ларионова</surname>
-<name>Наталья</name>
-<first_name>Ивановна</first_name>
+<surname>Р›Р°СЂРёРѕРЅРѕРІР°</surname>
+<name>РќР°С‚Р°Р»СЊСЏ</name>
+<first_name>РРІР°РЅРѕРІРЅР°</first_name>
 <years>28</years>
-<city>Москва</city>
-<post>учитель</post>
+<city>РњРѕСЃРєРІР°</city>
+<post>СѓС‡РёС‚РµР»СЊ</post>
 <salary>35000</salary>
 <telegram>larion</telegram>
 <resume>https://sity1.ru</resume>
@@ -44,12 +44,12 @@
 <staff>
 <id>11</id>
 <adopted>2022-12-23 18:18:17</adopted>
-<surname>Рудакова</surname>
-<name>Екатерина</name>
-<first_name>Вячеславовна</first_name>
+<surname>Р СѓРґР°РєРѕРІР°</surname>
+<name>Р•РєР°С‚РµСЂРёРЅР°</name>
+<first_name>Р’СЏС‡РµСЃР»Р°РІРѕРІРЅР°</first_name>
 <years>42</years>
-<city>Москва</city>
-<post>учитель</post>
+<city>РњРѕСЃРєРІР°</city>
+<post>СѓС‡РёС‚РµР»СЊ</post>
 <salary>35000</salary>
 <telegram>rydakova</telegram>
 <resume>https://sity1.ru</resume>
