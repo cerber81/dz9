@@ -1,0 +1,6 @@
+{ "staff": [
+{ "id": 5, "adopted": "2022-12-23 17:27:48", "surname": "Иванов", "name": "Иван", "first_name": "Иванович", "years": "32", "city": "Москва", "post": "менеджер", "salary": "30000", "telegram": "ivanov", "resume": "https://sity1.ru", "portfolio": "https://sity2.ru" },
+{ "id": 6, "adopted": "2022-12-22 13:59:40", "surname": "Петров", "name": "Петр", "first_name": "Петрович", "years": "30", "city": "Ростов", "post": "Проджект", "salary": "36000", "telegram": "prteov", "resume": "https://sity1.ru", "portfolio": "https://sity2.ru" },
+{ "id": 10, "adopted": "2022-12-23 18:19:25", "surname": "Ларионова", "name": "Наталья", "first_name": "Ивановна", "years": "28", "city": "Москва", "post": "учитель", "salary": "35000", "telegram": "larion", "resume": "https://sity1.ru", "portfolio": "https://sity2.ru" },
+{ "id": 11, "adopted": "2022-12-23 18:18:17", "surname": "Рудакова", "name": "Екатерина", "first_name": "Вячеславовна", "years": "42", "city": "Москва", "post": "учитель", "salary": "35000", "telegram": "rydakova", "resume": "https://sity1.ru", "portfolio": "https://sity2.ru" },
+]}
